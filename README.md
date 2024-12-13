@@ -19,6 +19,7 @@ Building something from scratch is the best way to fully understand something.
 | **Blockchain from scratch**           | [shafu0x](https://x.com/shafu0x)                    | [Repo](https://github.com/shafu0x/blockchain-from-scratch)                           | Build a Blockchain from scratch                          |
 | **Emulator from scratch**           |  yizhang82                   | [Website](https://yizhang82.dev/nes-emu-overview)                           | Write an Emulator from scratch.                          |
 | **GPT from scratch**             | [Andrej Karpathy](https://x.com/karpathy)           | [Youtube](https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy)                              | GPT implementation from scratch. |
+| **Database from scratch**             |            | [Website](https://cstack.github.io/db_tutorial/)                              | Writing a sqlite clone from scratch in C.  |
 
 ---
 
