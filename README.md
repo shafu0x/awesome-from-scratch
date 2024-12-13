@@ -1,5 +1,7 @@
 # Awesome From Scratch
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Building something from scratch is the best way to fully understand something
 
 
@@ -11,3 +13,6 @@ Building something from scratch is the best way to fully understand something
 | **Compiler from Scratch** | Nora Sandler                                        | [Website](https://norasandler.com/2017/11/29/Write-a-Compiler.html)                  | Write your own C compiler.                                    |
 | **Interpreter from Scratch** | Robert Nystrom                                   | [Website](https://craftinginterpreters.com/introduction.html)                        | Write an interpreter from scratch.                           |
 | **MicroStable**           | [shafu0x](https://x.com/shafu0x)                    | [MicroStable Repo](https://github.com/shafu0x/MicroStable)                           | A minimal stablecoin implementation.                          |
+| **OS from scratch**           | [Carlos Fenollosa](https://x.com/cfenollosa)                    | [Repo](https://github.com/cfenollosa/os-tutorial)                           | Operating System from scratch                          |
+| **MNIST from scrtach**           | [George Hotz](https://x.com/realGeorgeHotz)                    | [Repo](https://github.com/geohot/ai-notebooks/blob/master/mnist_from_scratch.ipynb)                           | Classify MNIST from scratch.                          |
+| **TCP from scratch**           | Ali Khalili                    | [Blog](https://hackernoon.com/how-to-build-a-high-performance-tcp-server-from-scratch)                           | Build a High-Performance TCP Server from scratch                          |
