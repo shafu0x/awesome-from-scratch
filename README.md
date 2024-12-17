@@ -20,6 +20,7 @@ Building something from scratch is the best way to fully understand something.
 | **Emulator from scratch**           |  yizhang82                   | [Website](https://yizhang82.dev/nes-emu-overview)                           | Write an Emulator from scratch.                          |
 | **GPT from scratch**             | [Andrej Karpathy](https://x.com/karpathy)           | [Youtube](https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy)                              | GPT implementation from scratch. |
 | **Database from scratch**             |            | [Website](https://cstack.github.io/db_tutorial/)                              | Writing a sqlite clone from scratch in C.  |
+| **ZK-SNARK from scratch**             |  Maksym Petkus           | [Website](https://arxiv.org/pdf/1906.07221)                              | Build a zk-snark system from scratch  |
 
 ---
 
